@@ -1,6 +1,6 @@
 # Portfolio Link  
   
-[Link](https://hyunsoocho77.github.io/site/)  
+[Link](https://hyunsoocho77.github.io/)  
   
 # Homepage Using Minimal Theme
 
